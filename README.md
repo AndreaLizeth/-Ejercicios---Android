@@ -29,3 +29,6 @@ Implementamos 2 métodos : grabar y recuperar
 el primero os permitirá  guardar nuevas notas, mientras que el último m;etodo nos permitirá  leerlas mediate la recuperación por fecha.
 
 Ejercicio 20
+En este ejercicio, implementamos un Layout, Image View y un Button
+Implementamos un método para que al momento de dar clic en el botón la imagen se muestre miestras que el botón desaparezca.
+Para esto previamnete oculatamos la imagen en la parte Visibility y en la parte onClick aplicamos el metodo ocultar.
